@@ -20,6 +20,7 @@
   + [对圆进行翻折](https://www.geogebra.org/m/Xe8dwdNH)
   + [探索直线的斜率](https://www.geogebra.org/m/sbFBjp6v)
   + [台风问题](https://www.geogebra.org/m/MtnV4Y6S)
+  + [三角形的中点迭代](https://www.geogebra.org/m/EsSYwngZ)
 ## 三维课件
   + [异面直线的探索](https://www.geogebra.org/m/MfWZe7cV)
   + [可以任意变动的长方体](https://www.geogebra.org/m/b7jBB8q4)
