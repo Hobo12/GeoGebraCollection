@@ -17,7 +17,9 @@
   + [证明三角形内角和180度](https://www.geogebra.org/m/WG2n768B)
   + [梯形中位线的证明](https://www.geogebra.org/m/uEsEs94x)
   + [探索椭圆的特征圆](https://www.geogebra.org/m/YfGz6CdW)
-  
+  + [对圆进行翻折](https://www.geogebra.org/m/Xe8dwdNH)
+  + [探索直线的斜率](https://www.geogebra.org/m/sbFBjp6v)
+  + [台风问题](https://www.geogebra.org/m/MtnV4Y6S)
 ## 三维课件
   + [异面直线的探索](https://www.geogebra.org/m/MfWZe7cV)
   + [可以任意变动的长方体](https://www.geogebra.org/m/b7jBB8q4)
